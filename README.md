@@ -1,2 +1,2 @@
-International Relations student that discovered Data Analysis and fell in love.
-- I work with business intelligence focused on sales, and currently studying SQL, Python, R and PBI.DAX
+International Relations student that discovered Data Analysis and fell in love. Laziness to do things made me an automation enthusiast.
+- Currently work with Business Intelligence focused on Sales, studying SQL, Python, R and PBI.DAX
