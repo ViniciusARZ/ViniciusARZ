@@ -1,8 +1,8 @@
 ## Hey, I'm Vinícius ARZ and I work with Data Analysis and Decision Science 📈📊
 <div align="center">
   <a href="https://github.com/ViniciusARZ">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusARZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusARZ&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusARZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusARZ&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
