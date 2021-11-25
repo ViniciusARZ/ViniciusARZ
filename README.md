@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/viniciusarz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://sites.google.com/view/whoisvarz" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/ViniciusARZ/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ViniciusARZ/ViniciusARZ/blob/output/github-contribution-grid-snake.svg)
  
 </div>
