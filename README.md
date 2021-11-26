@@ -5,13 +5,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusARZ&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
-  <img align="center" alt="vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-data-studio.svg">
-  <img align="center" alt="vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="vini-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="vini-Python" height="25" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
+  <img align="center" alt="vini-Python" height="25" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-data-studio.svg">
+  <img align="center" alt="vini-Js" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="vini-Ts" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="vini-React" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="vini-CSS" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gsuite.svg">
+  <img align="center" alt="vini-CSS" height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gsuite.svg">
 </div>
   
   ##
