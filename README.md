@@ -1,5 +1,5 @@
 ## Hey, I'm Vinícius ARZ and I work with Data Analysis and Decision Science 📈📊
-### Google Cloud lover Data Analyst focused on Customer Acquisition and Market Intelligence
+### Data Analyst focused on Customer Acquisition and Market Intelligence
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-PBI" height="25" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
