@@ -1,4 +1,4 @@
-## Hey, I'm Vinícius ARZ and I work with Data Analysis and Decision Science 📈📊
+## Hey, I'm Vinícius A.R.Z. and I work with Data Analysis and Decision Science 📈📊
 ### Data Analyst focused on Market Intelligence, Game Theory and using Analytics to solve business problems!
 #### <a href="https://varz.bio.link/">Contact Info & Portfolio!</a>
 
