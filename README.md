@@ -4,16 +4,10 @@
 
 ##### Analytics Project Management working as an internal consultant for Directors and Managers at an US EdTech. Experience managing projects in Customer Acquisition, Customer Buyer Persona, Strategic Planning and Market Research.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="vini-PBI" height="25" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
-  <img align="center" alt="vini-DSTUDIO" height="25" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-data-studio.svg">
-  <img align="center" alt="vini-TABLEAU" height="25" width="30" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png">
-  <img align="center" alt="vini-PYTHON" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="vini-SQL" height="32" width="40" src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png">
-  <img align="center" alt="vini-JUPYTER" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="vini-COLAB" height="45" width="40" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-  <img align="center" alt="vini-RSCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-</div>
+### Tech
+##### - Mainly working with SQL, Python, Salesforce (SOQL, SAQL), Google Colab with advanced integration in Google Cloud, Drive
+##### - Database Stack: Snowflake, DBT and Metabase. Managing ETL and ELT Pipelines, building models and analytics structure
+##### - Data Viz with PowerBI, Data Studio, Tableau, Salesforce Analytics Studio, Metabase
   
   ##
  
