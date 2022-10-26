@@ -1,5 +1,8 @@
 ## Hey, I'm Vinícius ARZ and I work with Data Analysis and Decision Science 📈📊
-### Data Analyst focused on Customer Acquisition and Market Intelligence
+### Data Analyst focused on Market Intelligence, Game Theory and using Analytics to solve business problems!
+#### <a href="https://varz.bio.link/">Contact Info & Portfolio!</a>
+
+##### Analytics Project Management working as an internal consultant for Directors and Managers at an US EdTech. Experience managing projects in Customer Acquisition, Customer Buyer Persona, Strategic Planning and Market Research.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-PBI" height="25" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
