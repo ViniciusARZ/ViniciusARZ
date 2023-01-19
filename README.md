@@ -6,7 +6,7 @@
 
 ### Tech
 ##### - Mainly working with SQL, Python, Salesforce (SOQL, SAQL), Google Colab with advanced integration in Google Cloud, Drive
-##### - Database Stack: Snowflake, DBT and Metabase. Managing ETL and ELT Pipelines, building models and analytics structure
+##### - Database Stack: Snowflake, DBT and Metabase, also Clickhouse with Tabular and CH Primary ID configurations. Managing ETL and ELT Pipelines, building models and analytics structure
 ##### - Data Viz with PowerBI, Data Studio, Tableau, Salesforce Analytics Studio, Metabase
   
   ##
