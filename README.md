@@ -6,7 +6,7 @@
 
 ## <span>&#x1f1e7;&#x1f1f7;</span> Senior Data Analyst working with Decision Intelligence and Market Intelligence at International Businesses
 
-### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/My%20project-1.png" width="35" height="35" /> <a href="www.varzdecisions.com">varzdecisions.com</a>
+### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/My%20project-1.png" width="35" height="35" /> <a href="https://www.varzdecisions.com/">varzdecisions.com</a>
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7039712967407378432">**Decoding Decision Intelligence Newsletter**!</a> 
 
