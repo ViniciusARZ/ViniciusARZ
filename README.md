@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/My%20project-1.png" width="35" height="35" /> <a href="https://www.varzdecisions.com/">varzdecisions.com</a>
 
-### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7039712967407378432">**Decoding Decision Intelligence Newsletter**!</a> 
+### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://viniciusarz.medium.com/subscribe">**Decoding Decision Intelligence Newsletter**!</a> 
 
 International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building Analytics Solutions for Directors and Clients at an US based Market Research Company. Performing Analytics and providing recommendations regarding customer behaviour, market intelligence and culture influence to Fortune 500 companies.
  
