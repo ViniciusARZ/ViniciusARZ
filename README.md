@@ -41,3 +41,7 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
       width="150px" 
       style="max-width:100px;"
       />
+
+## Articles
+
+<img src="https://github-read-medium.vercel.app/latest?username=viniciusarz&limit=6&theme=shades-of-purple"/>
