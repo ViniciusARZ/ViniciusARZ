@@ -15,7 +15,7 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
 <div> 
   <a href = "mailto:btvarz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusarz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://sites.google.com/view/whoisvarz" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">
+  <a href="https://www.varzdecisions.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">
 
  <p align="center">
     
