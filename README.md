@@ -31,24 +31,13 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
       style="max-width:100px;"
       />
 <a 
-   href="https://www.cloudskillsboost.google/public_profiles/9af929d6-d7f2-44a9-9060-33057a77a5c0/badges/6011095"
+   href="https://www.cloudskillsboost.google/public_profiles/9af929d6-d7f2-44a9-9060-33057a77a5c0/badges/6011604"
    target="_blank" 
-   title="Badge Introduction to Generative AI" 
-   alt="Badge Introduction to Generative AI">
+   title="Badge Generative AI Fundamentals" 
+   alt="Badge Generative AI Fundamentals">
    <img 
-      src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/GenAI_GoogleCloud_Badge.png"
-      alt="Badge Introduction to Generative AI"
-      width="110px" 
-      style="max-width:100px;"
-      />
-<a 
-   href="https://www.cloudskillsboost.google/public_profiles/9af929d6-d7f2-44a9-9060-33057a77a5c0/badges/6011450"
-   target="_blank" 
-   title="Badge Introduction to Large Language Models" 
-   alt="Badge Introduction to Large Language Models">
-   <img 
-      src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/LLM_GoogleCloud_Badge.png"
-      alt="Badge Introduction to Large Language Models"
+      src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/GenAIBadge.png"
+      alt="Badge Generative AI Fundamentals"
       width="110px" 
       style="max-width:100px;"
       />
