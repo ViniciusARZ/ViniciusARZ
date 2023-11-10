@@ -38,6 +38,6 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
    <img 
       src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/GenAIBadge.png"
       alt="Badge Generative AI Fundamentals"
-      width="110px" 
+      width="150px" 
       style="max-width:100px;"
       />
