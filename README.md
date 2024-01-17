@@ -14,6 +14,7 @@ title My Timeline
 
 section Career
 Orbe Consultoria           :active,, 2019-07-01,2021-06-01
+Poli sci Researcher, FAPESP           :active,, 2020-01-01,2021-09-01
 Slang         :active,, 2021-06-01,2023-08-01
 Awari       :active,, 2023-05-01,2024-12-31
 Collage Group       :active,, 2023-08-01,2024-12-31
