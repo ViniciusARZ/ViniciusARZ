@@ -4,7 +4,26 @@
 
 </div>
 
-## <span>&#x1f1e7;&#x1f1f7;</span> Senior Data Analyst working with Decision Intelligence and Market Intelligence at International Businesses
+## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist working with Decision Intelligence and Market Intelligence at International Businesses
+
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Career
+Orbe Consultoria           :active,, 2019-07-01,2021-06-01
+Slang         :active,, 2021-06-01,2023-08-01
+Awari       :active,, 2023-05-01,2024-12-31
+Collage Group       :active,, 2023-08-01,2024-12-31
+
+section Education
+Bachelors in International Affairs, UNESP             :active,, 2019-01-01,2022-12-31
+Business Analytics, CU             :active,, 2020-03-01,2021-12-31
+Stats Prog, UNICAMP             :active,, 2020-06-01,2021-03-31
+MBA in Data Science, USP             :active,, 2023-12-01,2025-04-01
+```
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/My%20project-1.png" width="35" height="35" /> <a href="https://www.varzdecisions.com/">varzdecisions.com</a>
 
