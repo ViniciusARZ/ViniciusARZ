@@ -37,8 +37,17 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
   <a href="https://www.linkedin.com/in/viniciusarz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.varzdecisions.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">
 
- <p align="center">
-    
+ <p align="right">
+
+<div align="left">
+    <p><strong>LinkedIn Top Voice Data Science 2024</strong></p>
+  <img 
+    src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/Data Science Top Voice 2024 Vinicius Ramos.png" 
+    alt="Top Voice Data Science 2024" 
+    width="200px" 
+    style="max-width:100px;">
+</div>
+
 <a 
    href="https://www.credly.com/badges/f73093e4-3f04-4428-a441-ac7a01735f3a/public_url"
    target="_blank" 
@@ -61,6 +70,8 @@ International Affairs Bachelor Self-taught Coding, Statistics and Data Science, 
       width="150px" 
       style="max-width:100px;"
       />
+    
+      
 
 ## Articles
 [![ViniciusARZ Blog](https://github-read-medium.vercel.app/latest?username=viniciusarz&limit=6&theme=shades-of-purple)](https://medium.com/@viniciusarz)
