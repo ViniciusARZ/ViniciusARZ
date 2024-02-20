@@ -4,7 +4,7 @@
 
 </div>
 
-## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist working with Decision Intelligence and Market Intelligence at International Businesses
+## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist & Decision Intelligence Professor, specialized in Market Intelligence & Strategy at International Businesses
 
 ```mermaid
 
