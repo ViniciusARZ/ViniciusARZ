@@ -31,7 +31,7 @@ MBA in Data Science, USP             :active,, 2023-12-01,2025-04-01
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://viniciusarz.medium.com/subscribe">**Decoding Decision Intelligence Newsletter**!</a> 
 
-International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building Analytics Solutions for Directors and Clients at an US based Market Research Company. Performing Analytics and building Machine Learning/Statistical Models around lookalikes, classification and cross-source analytics to empower Fortune 500 marketers on consumer behaviour, market intelligence and culture influence.
+International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building Analytics Solutions for Directors and Clients at an US based Market Research Company. Building Machine Learning and AI Solutions around Lookalike Modelling, AutoML and Gen AI pipelines to empower Fortune 500 marketers on consumer behaviour, market intelligence and culture influence.
  
 <div> 
   <a href = "mailto:btvarz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
