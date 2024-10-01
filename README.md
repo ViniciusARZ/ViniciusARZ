@@ -4,7 +4,7 @@
 
 </div>
 
-## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist & Decision Intelligence Professor, specialized in Lookalike & Classification Models
+## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist, specialized in Lookalike, Classification and Decision Models
 
 ```mermaid
 
@@ -18,7 +18,7 @@ Poli sci Researcher, FAPESP           :active,, 2020-01-01,2021-09-01
 Data Analyst, Slang         :active,, 2021-06-01,2023-08-01
 Mentor, Awari       :active,, 2023-05-01,2024-12-31
 Data Scientist, Collage Group       :active,, 2023-08-01,2024-12-31
-Professor, FIAP :active,, 2024-02-01,2024-12-31
+Professor, FIAP :active,, 2024-02-01,2024-10-01
 
 section Education
 Bachelors in International Affairs, UNESP             :active,, 2019-01-01,2022-12-31
