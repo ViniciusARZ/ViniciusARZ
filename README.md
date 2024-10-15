@@ -10,21 +10,22 @@
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title My Experience
 
 section Career
-Orbe Consultoria           :active,, 2019-07-01,2021-06-01
-Poli sci Researcher, FAPESP           :active,, 2020-01-01,2021-09-01
-Senior Data Analyst, Slang         :active,, 2021-06-01,2023-08-01
-Mentor, Awari       :active,, 2023-05-01,2024-12-31
-Data Scientist, Collage Group       :active,, 2023-08-01,2024-12-31
-Professor, FIAP :active,, 2024-02-01,2024-10-01
+Orbe Consultoria           :crit, 2019-07-01,2021-06-01
+Poli sci Researcher, FAPESP           :crit, 2020-01-01,2021-09-01
+Senior Data Analyst, Slang         :crit, 2021-06-01,2023-08-01
+Mentor, Awari       :crit, 2023-05-01,2024-12-31
+Data Scientist, Collage Group       :crit, 2023-08-01,2024-12-31
+Professor, FIAP :crit, 2024-02-01,2024-10-01
 
 section Education
-Bachelors in International Affairs, UNESP             :active,, 2019-01-01,2022-12-31
-Business Analytics, CU             :active,, 2020-03-01,2021-12-31
-Stats Prog, UNICAMP             :active,, 2020-06-01,2021-03-31
-MBA in Data Science, USP             :active,, 2023-12-01,2025-04-01
+Bachelors in International Affairs, UNESP             :crit, 2019-01-01,2022-12-31
+Business Analytics, CU             :crit, 2020-03-01,2021-12-31
+Stats Prog, UNICAMP             :crit, 2020-06-01,2021-03-31
+MBA in Data Science, USP             :crit, 2023-12-01,2025-04-01
+
 ```
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/My%20project-1.png" width="35" height="35" /> <a href="https://www.varzdecisions.com/">varzdecisions.com</a>
