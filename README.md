@@ -16,15 +16,16 @@ section Career
 Orbe Consultoria           :crit, 2019-07-01,2021-06-01
 Poli sci Researcher, FAPESP           :crit, 2020-01-01,2021-09-01
 Senior Data Analyst, Slang         :crit, 2021-06-01,2023-08-01
-Mentor, Awari       :crit, 2023-05-01,2025-06-01
-Data Scientist, Collage Group       :crit, 2023-08-01,2025-06-01
+Mentor, Awari       :crit, 2023-05-01,2025-12-31
+Data Scientist, Collage Group       :crit, 2023-08-01,2025-12-31
 Professor, FIAP :crit, 2024-02-01,2024-10-01
 
 section Education
 Bachelors in International Affairs, UNESP             :crit, 2019-01-01,2022-12-31
 Business Analytics, CU             :crit, 2020-03-01,2021-12-31
 Stats Prog, UNICAMP             :crit, 2020-06-01,2021-03-31
-MBA in Data Science, USP             :crit, 2023-12-01,2025-06-01
+MBA in Data Science, USP             :crit, 2023-12-01,2025-02-01
+Ms in Comp Sci, UNESP             :crit, 2025-03-01,2025-12-31
 
 ```
 
