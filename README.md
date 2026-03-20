@@ -4,7 +4,7 @@
 
 </div>
 
-## <span>&#x1f1e7;&#x1f1f7;</span> AI/ML Manager and Data Scientist, specialized in Classification, Semantic Search and Retrieval Algorithms
+## <span>&#x1f1e7;&#x1f1f7;</span> AI/ML Manager and Scientist, specialized in Classification, Semantic Search and Retrieval Algorithms
 
 ```mermaid
 
