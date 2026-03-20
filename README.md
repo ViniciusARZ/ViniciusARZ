@@ -4,7 +4,7 @@
 
 </div>
 
-## <span>&#x1f1e7;&#x1f1f7;</span> Data Scientist, specialized in Lookalike, Classification and Decision Models
+## <span>&#x1f1e7;&#x1f1f7;</span> AI/ML Manager and Data Scientist, specialized in Classification, Semantic Search and Retrieval Algorithms
 
 ```mermaid
 
@@ -33,7 +33,7 @@ Ms in Comp Sci, UNESP             :crit, 2025-03-01,2025-12-31
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://viniciusarz.medium.com/subscribe">**Decoding Decision Intelligence Newsletter**!</a> 
 
-International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building Analytics Solutions for Directors and Clients at an US based Market Research Company. Building Machine Learning and AI Solutions around Lookalike Modelling, AutoML and Gen AI pipelines to empower Fortune 500 marketers on consumer behaviour, market intelligence and culture influence.
+International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building managing a Data Science and Engineering team and building product for Fortune 500 clients at an US based Market Research Company. Building Machine Learning and AI Solutions around Lookalike Modelling, AutoML and advanced RAG LLM pipelines to empower marketers on consumer behaviour, market intelligence and culture influence.
  
 <div> 
   <a href = "mailto:btvarz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
