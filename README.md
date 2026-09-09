@@ -18,6 +18,7 @@ Poli sci Researcher, FAPESP           :crit, 2020-01-01,2021-09-01
 Senior Data Analyst, Slang         :crit, 2021-06-01,2023-08-01
 Mentor, Awari       :crit, 2023-05-01,2025-12-31
 Data Scientist, Collage Group       :crit, 2023-08-01,2025-12-31
+AI/ML Manager, Collage Group       :crit, 2026-01-01,2027-12-31
 Professor, FIAP :crit, 2024-02-01,2024-10-01
 
 section Education
@@ -25,7 +26,7 @@ Bachelors in International Affairs, UNESP             :crit, 2019-01-01,2022-12-
 Business Analytics, CU             :crit, 2020-03-01,2021-12-31
 Stats Prog, UNICAMP             :crit, 2020-06-01,2021-03-31
 MBA in Data Science, USP             :crit, 2023-12-01,2025-02-01
-Ms in Comp Sci, UNESP             :crit, 2025-03-01,2025-12-31
+Ms in Comp Sci, UNESP             :crit, 2025-03-01,2027-12-31
 
 ```
 
@@ -33,7 +34,7 @@ Ms in Comp Sci, UNESP             :crit, 2025-03-01,2025-12-31
 
 ### <img src="https://github.com/ViniciusARZ/ViniciusARZ/blob/main/brand-images/crapped.png" width="35" height="35" /> <a href="https://viniciusarz.medium.com/subscribe">**Decoding Decision Intelligence Newsletter**!</a> 
 
-International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently building and managing a Data Science & Engineering team to build product for Fortune 500 clients, at an US based Market Research Company. Building Machine Learning and AI Solutions around Lookalike Modelling, AutoML and advanced RAG pipelines for Agentic workflows.
+International Affairs Bachelor Self-taught Coding, Statistics and Data Science, currently handling methodological decisions and managing an AI and Engineering team to build product for Fortune 500 clients, at an US based Market Research Company. Building Machine Learning and AI Solutions around Lookalike Modelling, AutoML and advanced RAG pipelines for Agentic workflows.
  
 <div> 
   <a href = "mailto:btvarz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
